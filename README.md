@@ -70,7 +70,7 @@ We welcome contributions to TIGMINO. If you have any suggestions or improvements
 
 ## Contact
 For any questions or inquiries, please reach out to us at 
-brahimelharche02gmail.com or https://www.brahimelharche.me/
+brahimelharche02gmail.com https://www.brahimelharche.me/
 nyantudrealban@gmail.com
 ogoita36@gmail.com
 
